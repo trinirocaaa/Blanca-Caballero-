@@ -1,0 +1,31 @@
+
+html{
+    background-color: lavenderblush;
+}
+
+h1{
+    color:pink;
+    font-family: 'Tilt Prism', cursive;
+    font-size: 65px;
+    text-align: center;
+
+}
+
+h2{
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+}
+
+p{
+    font-family: cursive;
+}
+
+img{
+    height: 600px;
+    width: 100%
+}
+
+div{
+    border: 10px solid purple
+}
+
